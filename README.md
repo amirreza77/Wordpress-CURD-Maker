@@ -1,5 +1,5 @@
 # Wordpress CURD Maker 
-Download and extract this script in your local or we and simply make CRUD for wordpress and use it in your wp project as view it make your life simple 
+Download and extract this script in your local or Server and simply make CRUD for wordpress and use it in your wp project as view it make your life simple 
 Just fill the form and download your desire view.
 ![Logo](https://iili.io/HoE4wGa.png)
 
